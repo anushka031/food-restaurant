@@ -1,0 +1,1 @@
+The "restaurant website" one-page website is designed to provide a seamless and engaging experience for visitors looking to learn more about the restaurant. Built using HTML and CSS, this single-page site showcases essential information about the restaurant, including its menu, atmosphere, and contact details.
